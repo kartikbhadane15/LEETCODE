@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/kartikbhadane15/LEETCODE/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartikbhadane15/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/kartikbhadane15/LEETCODE/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
