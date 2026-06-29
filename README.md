@@ -13,6 +13,7 @@
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/kartikbhadane15/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikbhadane15/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
+## String
+|  |
+| ------- |
+| [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
