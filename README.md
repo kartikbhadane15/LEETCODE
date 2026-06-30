@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kartikbhadane15/LEETCODE/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/kartikbhadane15/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikbhadane15/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikbhadane15/LEETCODE/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -27,6 +29,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Matrix
 |  |
@@ -60,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -69,4 +73,8 @@
 |  |
 | ------- |
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
