@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kartikbhadane15/LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kartikbhadane15/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/kartikbhadane15/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kartikbhadane15/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikbhadane15/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartikbhadane15/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kartikbhadane15/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -74,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kartikbhadane15/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
