@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/kartikbhadane15/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikbhadane15/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/kartikbhadane15/LEETCODE/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kartikbhadane15/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
