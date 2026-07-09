@@ -16,6 +16,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
+| [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -31,6 +32,7 @@
 | [0141-linked-list-cycle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
+| [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kartikbhadane15/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 ## Divide and Conquer
 |  |
