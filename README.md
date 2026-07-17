@@ -119,6 +119,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kartikbhadane15/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kartikbhadane15/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/kartikbhadane15/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 ## Divide and Conquer
