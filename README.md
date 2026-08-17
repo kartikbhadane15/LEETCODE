@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/kartikbhadane15/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kartikbhadane15/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kartikbhadane15/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kartikbhadane15/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kartikbhadane15/LEETCODE/tree/master/0066-plus-one) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/kartikbhadane15/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kartikbhadane15/LEETCODE/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
@@ -70,6 +72,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kartikbhadane15/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kartikbhadane15/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/kartikbhadane15/LEETCODE/tree/master/1672-richest-customer-wealth) |
