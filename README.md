@@ -176,6 +176,7 @@
 | [0231-power-of-two](https://github.com/kartikbhadane15/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/kartikbhadane15/LEETCODE/tree/master/0401-binary-watch) |
 ## Trie
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kartikbhadane15/LEETCODE/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/kartikbhadane15/LEETCODE/tree/master/0401-binary-watch) |
 ## Depth-First Search
 |  |
 | ------- |
