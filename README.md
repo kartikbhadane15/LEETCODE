@@ -63,6 +63,7 @@
 | [0066-plus-one](https://github.com/kartikbhadane15/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kartikbhadane15/LEETCODE/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/kartikbhadane15/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/kartikbhadane15/LEETCODE/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kartikbhadane15/LEETCODE/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/kartikbhadane15/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 ## Trie
 |  |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kartikbhadane15/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/kartikbhadane15/LEETCODE/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
