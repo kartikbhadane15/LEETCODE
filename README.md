@@ -181,6 +181,7 @@
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/kartikbhadane15/LEETCODE/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/kartikbhadane15/LEETCODE/tree/master/0461-hamming-distance) |
 ## Trie
 |  |
 | ------- |
