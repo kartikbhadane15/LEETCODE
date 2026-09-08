@@ -39,6 +39,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/kartikbhadane15/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/kartikbhadane15/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikbhadane15/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kartikbhadane15/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/kartikbhadane15/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
 |  |
 | ------- |
