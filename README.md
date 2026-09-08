@@ -32,6 +32,7 @@
 | [0238-product-of-array-except-self](https://github.com/kartikbhadane15/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1470-shuffle-the-array) |
@@ -74,6 +75,7 @@
 | [0326-power-of-three](https://github.com/kartikbhadane15/LEETCODE/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/kartikbhadane15/LEETCODE/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/kartikbhadane15/LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -151,6 +153,7 @@
 | [0242-valid-anagram](https://github.com/kartikbhadane15/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting Sort
