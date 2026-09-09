@@ -81,6 +81,7 @@
 | [0509-fibonacci-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2769-find-the-maximum-achievable-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/kartikbhadane15/LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kartikbhadane15/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
