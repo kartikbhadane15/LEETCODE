@@ -83,6 +83,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/kartikbhadane15/LEETCODE/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/kartikbhadane15/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
@@ -119,6 +120,7 @@
 | [0125-valid-palindrome](https://github.com/kartikbhadane15/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/0344-reverse-string) |
+| [2396-strictly-palindromic-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -281,4 +283,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
