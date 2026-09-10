@@ -63,6 +63,7 @@
 | [0771-jewels-and-stones](https://github.com/kartikbhadane15/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3945-digit-frequency-score](https://github.com/kartikbhadane15/LEETCODE/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/kartikbhadane15/LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kartikbhadane15/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartikbhadane15/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3945-digit-frequency-score](https://github.com/kartikbhadane15/LEETCODE/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
