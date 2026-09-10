@@ -27,6 +27,7 @@
 | [0152-maximum-product-subarray](https://github.com/kartikbhadane15/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikbhadane15/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kartikbhadane15/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -76,6 +77,7 @@
 | [0067-add-binary](https://github.com/kartikbhadane15/LEETCODE/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kartikbhadane15/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kartikbhadane15/LEETCODE/tree/master/0326-power-of-three) |
@@ -255,6 +257,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/kartikbhadane15/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartikbhadane15/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
@@ -296,4 +299,20 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2396-strictly-palindromic-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
