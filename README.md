@@ -83,6 +83,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/kartikbhadane15/LEETCODE/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/kartikbhadane15/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/kartikbhadane15/LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -243,6 +244,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/kartikbhadane15/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartikbhadane15/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
