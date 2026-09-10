@@ -43,6 +43,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikbhadane15/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kartikbhadane15/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -83,6 +84,7 @@
 | [0509-fibonacci-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/kartikbhadane15/LEETCODE/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/kartikbhadane15/LEETCODE/tree/master/2413-smallest-even-multiple) |
@@ -108,6 +110,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kartikbhadane15/LEETCODE/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/kartikbhadane15/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -196,6 +199,7 @@
 | [0771-jewels-and-stones](https://github.com/kartikbhadane15/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/kartikbhadane15/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
