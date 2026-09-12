@@ -42,6 +42,7 @@
 | [1672-richest-customer-wealth](https://github.com/kartikbhadane15/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/kartikbhadane15/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikbhadane15/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kartikbhadane15/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -86,6 +87,7 @@
 | [0509-fibonacci-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kartikbhadane15/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/kartikbhadane15/LEETCODE/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2396-strictly-palindromic-number) |
@@ -226,6 +228,7 @@
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/kartikbhadane15/LEETCODE/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/kartikbhadane15/LEETCODE/tree/master/0461-hamming-distance) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kartikbhadane15/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/kartikbhadane15/LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Trie
@@ -286,6 +289,7 @@
 | ------- |
 | [0079-word-search](https://github.com/kartikbhadane15/LEETCODE/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/kartikbhadane15/LEETCODE/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kartikbhadane15/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -303,6 +307,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kartikbhadane15/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Primality Test
 |  |
 | ------- |
@@ -315,4 +320,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kartikbhadane15/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
