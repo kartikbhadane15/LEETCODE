@@ -104,6 +104,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartikbhadane15/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/kartikbhadane15/LEETCODE/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/3959-check-good-integer) |
 ## Counting
 |  |
 | ------- |
@@ -278,6 +279,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3959-check-good-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/3959-check-good-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
