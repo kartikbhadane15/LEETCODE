@@ -219,6 +219,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/kartikbhadane15/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
@@ -288,6 +289,7 @@
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kartikbhadane15/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [3959-check-good-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/3959-check-good-integer) |
