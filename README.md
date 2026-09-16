@@ -48,6 +48,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kartikbhadane15/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kartikbhadane15/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -67,6 +68,7 @@
 | [0771-jewels-and-stones](https://github.com/kartikbhadane15/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kartikbhadane15/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3945-digit-frequency-score](https://github.com/kartikbhadane15/LEETCODE/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -102,6 +104,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kartikbhadane15/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/kartikbhadane15/LEETCODE/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kartikbhadane15/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/kartikbhadane15/LEETCODE/tree/master/3516-find-closest-person) |
