@@ -1,21 +1,19 @@
 class Solution {
-
     public int subsetXORSum(int[] nums) {
-        return findSubset(nums, 0, 0);
+        return helper(nums, 0, 0);
     }
 
-    public int findSubset(int[] nums, int i, int xor) {
-
+    private int helper(int[] nums, int i, int xor) {
         // Base case
         if (i == nums.length) {
             return xor;
         }
 
         // Include nums[i]
-        int include = findSubset(nums, i + 1, xor ^ nums[i]);
+        int include = helper(nums, i + 1, xor ^ nums[i]);
 
         // Don't include nums[i]
-        int exclude = findSubset(nums, i + 1, xor);
+        int exclude = helper(nums, i + 1, xor);
 
         return include + exclude;
     }
