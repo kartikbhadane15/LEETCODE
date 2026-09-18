@@ -43,6 +43,7 @@
 | [1732-find-the-highest-altitude](https://github.com/kartikbhadane15/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikbhadane15/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartikbhadane15/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1920-build-array-from-permutation](https://github.com/kartikbhadane15/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -292,6 +293,7 @@
 | [0067-add-binary](https://github.com/kartikbhadane15/LEETCODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kartikbhadane15/LEETCODE/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
+| [1920-build-array-from-permutation](https://github.com/kartikbhadane15/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kartikbhadane15/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
