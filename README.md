@@ -49,6 +49,7 @@
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kartikbhadane15/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/kartikbhadane15/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kartikbhadane15/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/kartikbhadane15/LEETCODE/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3467-transform-array-by-parity](https://github.com/kartikbhadane15/LEETCODE/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
