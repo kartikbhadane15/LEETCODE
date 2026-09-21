@@ -114,6 +114,7 @@
 | [3516-find-closest-person](https://github.com/kartikbhadane15/LEETCODE/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kartikbhadane15/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/kartikbhadane15/LEETCODE/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/kartikbhadane15/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/kartikbhadane15/LEETCODE/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/3959-check-good-integer) |
@@ -228,6 +229,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/kartikbhadane15/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/kartikbhadane15/LEETCODE/tree/master/3894-traffic-signal-color) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/kartikbhadane15/LEETCODE/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/3959-check-good-integer) |
 ## Heap (Priority Queue)
 |  |
