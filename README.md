@@ -90,6 +90,7 @@
 | [0231-power-of-two](https://github.com/kartikbhadane15/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kartikbhadane15/LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/kartikbhadane15/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartikbhadane15/LEETCODE/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/kartikbhadane15/LEETCODE/tree/master/0441-arranging-coins) |
@@ -335,6 +336,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Enumeration
 |  |
@@ -361,4 +363,20 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kartikbhadane15/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
