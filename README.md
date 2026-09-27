@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/kartikbhadane15/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kartikbhadane15/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
@@ -152,6 +153,7 @@
 | [0088-merge-sorted-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kartikbhadane15/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
