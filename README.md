@@ -381,4 +381,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0292-nim-game) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartikbhadane15/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
