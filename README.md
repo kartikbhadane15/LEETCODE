@@ -50,6 +50,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kartikbhadane15/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kartikbhadane15/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -158,6 +159,7 @@
 | [0141-linked-list-cycle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/0344-reverse-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kartikbhadane15/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -311,6 +313,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/kartikbhadane15/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/kartikbhadane15/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kartikbhadane15/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kartikbhadane15/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
