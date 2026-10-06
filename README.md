@@ -58,6 +58,7 @@
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/kartikbhadane15/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kartikbhadane15/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/kartikbhadane15/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -312,6 +313,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/kartikbhadane15/LEETCODE/tree/master/3894-traffic-signal-color) |
+| [3925-concatenate-array-with-reverse](https://github.com/kartikbhadane15/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/3959-check-good-integer) |
 ## Heap (Priority Queue)
 |  |
