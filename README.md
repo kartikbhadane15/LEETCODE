@@ -44,6 +44,7 @@
 | [1672-richest-customer-wealth](https://github.com/kartikbhadane15/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/kartikbhadane15/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikbhadane15/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kartikbhadane15/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartikbhadane15/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/kartikbhadane15/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -193,6 +194,7 @@
 | [0238-product-of-array-except-self](https://github.com/kartikbhadane15/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/kartikbhadane15/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kartikbhadane15/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0771-jewels-and-stones](https://github.com/kartikbhadane15/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/kartikbhadane15/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kartikbhadane15/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
