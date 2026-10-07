@@ -231,6 +231,7 @@
 | [0079-word-search](https://github.com/kartikbhadane15/LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kartikbhadane15/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kartikbhadane15/LEETCODE/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
@@ -341,6 +342,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kartikbhadane15/LEETCODE/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/kartikbhadane15/LEETCODE/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartikbhadane15/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
@@ -406,4 +408,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
