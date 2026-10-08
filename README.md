@@ -34,6 +34,7 @@
 | [0238-product-of-array-except-self](https://github.com/kartikbhadane15/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0283-move-zeroes) |
+| [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
@@ -73,6 +74,7 @@
 | [0242-valid-anagram](https://github.com/kartikbhadane15/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/kartikbhadane15/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -100,6 +102,7 @@
 | [0292-nim-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/kartikbhadane15/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartikbhadane15/LEETCODE/tree/master/0342-power-of-four) |
+| [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0441-arranging-coins](https://github.com/kartikbhadane15/LEETCODE/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -414,4 +417,12 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
