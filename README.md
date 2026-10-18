@@ -34,6 +34,7 @@
 | [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikbhadane15/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kartikbhadane15/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@
 | [0141-linked-list-cycle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikbhadane15/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kartikbhadane15/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
@@ -330,6 +332,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Number Theory
 |  |
