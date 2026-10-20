@@ -196,6 +196,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikbhadane15/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
@@ -249,6 +250,7 @@
 | [0008-string-to-integer-atoi](https://github.com/kartikbhadane15/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kartikbhadane15/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kartikbhadane15/LEETCODE/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/kartikbhadane15/LEETCODE/tree/master/0058-length-of-last-word) |
@@ -444,6 +446,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
