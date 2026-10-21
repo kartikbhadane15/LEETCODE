@@ -57,6 +57,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartikbhadane15/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2678-number-of-senior-citizens](https://github.com/kartikbhadane15/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kartikbhadane15/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -160,6 +161,7 @@
 | [0079-word-search](https://github.com/kartikbhadane15/LEETCODE/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/kartikbhadane15/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kartikbhadane15/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
@@ -239,6 +241,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3467-transform-array-by-parity](https://github.com/kartikbhadane15/LEETCODE/tree/master/3467-transform-array-by-parity) |
 ## Counting Sort
 |  |
@@ -358,6 +361,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kartikbhadane15/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kartikbhadane15/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kartikbhadane15/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -369,6 +373,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Quickselect
 |  |
 | ------- |
