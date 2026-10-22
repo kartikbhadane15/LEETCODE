@@ -188,6 +188,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikbhadane15/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikbhadane15/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kartikbhadane15/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/0070-climbing-stairs) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikbhadane15/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
@@ -257,6 +259,7 @@
 | [0014-longest-common-prefix](https://github.com/kartikbhadane15/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kartikbhadane15/LEETCODE/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/kartikbhadane15/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kartikbhadane15/LEETCODE/tree/master/0067-add-binary) |
@@ -455,6 +458,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
