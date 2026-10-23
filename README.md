@@ -44,6 +44,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartikbhadane15/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -89,6 +90,7 @@
 | [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/kartikbhadane15/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kartikbhadane15/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -248,6 +250,7 @@
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1122-relative-sort-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3467-transform-array-by-parity](https://github.com/kartikbhadane15/LEETCODE/tree/master/3467-transform-array-by-parity) |
@@ -255,6 +258,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -482,4 +486,12 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
