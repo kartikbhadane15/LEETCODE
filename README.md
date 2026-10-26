@@ -37,6 +37,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikbhadane15/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kartikbhadane15/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartikbhadane15/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kartikbhadane15/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kartikbhadane15/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/kartikbhadane15/LEETCODE/tree/master/3467-transform-array-by-parity) |
 ## Matrix
@@ -255,6 +258,7 @@
 | [0169-majority-element](https://github.com/kartikbhadane15/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikbhadane15/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kartikbhadane15/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kartikbhadane15/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -507,4 +511,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1122-relative-sort-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
