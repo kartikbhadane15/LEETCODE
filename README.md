@@ -121,6 +121,7 @@
 | [0070-climbing-stairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/kartikbhadane15/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kartikbhadane15/LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
@@ -221,6 +222,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kartikbhadane15/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kartikbhadane15/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -294,6 +296,7 @@
 | [0079-word-search](https://github.com/kartikbhadane15/LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kartikbhadane15/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/kartikbhadane15/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/kartikbhadane15/LEETCODE/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/0344-reverse-string) |
