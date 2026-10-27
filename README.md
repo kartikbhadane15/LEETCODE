@@ -129,6 +129,7 @@
 | [0326-power-of-three](https://github.com/kartikbhadane15/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartikbhadane15/LEETCODE/tree/master/0342-power-of-four) |
 | [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
+| [0415-add-strings](https://github.com/kartikbhadane15/LEETCODE/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kartikbhadane15/LEETCODE/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -301,6 +302,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/kartikbhadane15/LEETCODE/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/kartikbhadane15/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -395,6 +397,7 @@
 | [0054-spiral-matrix](https://github.com/kartikbhadane15/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kartikbhadane15/LEETCODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kartikbhadane15/LEETCODE/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/kartikbhadane15/LEETCODE/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/kartikbhadane15/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/kartikbhadane15/LEETCODE/tree/master/1920-build-array-from-permutation) |
