@@ -118,6 +118,7 @@
 | [0060-permutation-sequence](https://github.com/kartikbhadane15/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/kartikbhadane15/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kartikbhadane15/LEETCODE/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/kartikbhadane15/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kartikbhadane15/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kartikbhadane15/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/kartikbhadane15/LEETCODE/tree/master/0204-count-primes) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartikbhadane15/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/kartikbhadane15/LEETCODE/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikbhadane15/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
@@ -526,4 +528,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kartikbhadane15/LEETCODE/tree/master/0229-majority-element-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kartikbhadane15/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
