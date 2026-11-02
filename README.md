@@ -46,6 +46,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kartikbhadane15/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/kartikbhadane15/LEETCODE/tree/master/0403-frog-jump) |
+| [0414-third-maximum-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
@@ -275,6 +276,7 @@
 | [0268-missing-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kartikbhadane15/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1122-relative-sort-array) |
