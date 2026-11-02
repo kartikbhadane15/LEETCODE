@@ -47,6 +47,7 @@
 | [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/kartikbhadane15/LEETCODE/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikbhadane15/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/kartikbhadane15/LEETCODE/tree/master/0682-baseball-game) |
@@ -136,6 +137,7 @@
 | [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
 | [0415-add-strings](https://github.com/kartikbhadane15/LEETCODE/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kartikbhadane15/LEETCODE/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikbhadane15/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kartikbhadane15/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
