@@ -74,6 +74,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kartikbhadane15/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/kartikbhadane15/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kartikbhadane15/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/kartikbhadane15/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3668-restore-finishing-order](https://github.com/kartikbhadane15/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/kartikbhadane15/LEETCODE/tree/master/3838-weighted-word-mapping) |
@@ -182,6 +183,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/kartikbhadane15/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3665-twisted-mirror-path-count](https://github.com/kartikbhadane15/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kartikbhadane15/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
@@ -221,6 +223,7 @@
 | [0152-maximum-product-subarray](https://github.com/kartikbhadane15/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0403-frog-jump](https://github.com/kartikbhadane15/LEETCODE/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/kartikbhadane15/LEETCODE/tree/master/0509-fibonacci-number) |
+| [3665-twisted-mirror-path-count](https://github.com/kartikbhadane15/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
 | ------- |
