@@ -287,6 +287,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/kartikbhadane15/LEETCODE/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/kartikbhadane15/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kartikbhadane15/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3467-transform-array-by-parity](https://github.com/kartikbhadane15/LEETCODE/tree/master/3467-transform-array-by-parity) |
@@ -330,6 +331,7 @@
 | [1678-goal-parser-interpretation](https://github.com/kartikbhadane15/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kartikbhadane15/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kartikbhadane15/LEETCODE/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1859-sorting-the-sentence](https://github.com/kartikbhadane15/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/kartikbhadane15/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kartikbhadane15/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kartikbhadane15/LEETCODE/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -542,6 +544,7 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/kartikbhadane15/LEETCODE/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/kartikbhadane15/LEETCODE/tree/master/1859-sorting-the-sentence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
