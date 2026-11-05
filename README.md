@@ -137,6 +137,7 @@
 | [0326-power-of-three](https://github.com/kartikbhadane15/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kartikbhadane15/LEETCODE/tree/master/0342-power-of-four) |
 | [0391-perfect-rectangle](https://github.com/kartikbhadane15/LEETCODE/tree/master/0391-perfect-rectangle) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kartikbhadane15/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/kartikbhadane15/LEETCODE/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kartikbhadane15/LEETCODE/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikbhadane15/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -323,6 +324,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/kartikbhadane15/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kartikbhadane15/LEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kartikbhadane15/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/kartikbhadane15/LEETCODE/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/kartikbhadane15/LEETCODE/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/kartikbhadane15/LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -366,6 +368,7 @@
 | [0342-power-of-four](https://github.com/kartikbhadane15/LEETCODE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kartikbhadane15/LEETCODE/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/kartikbhadane15/LEETCODE/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kartikbhadane15/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/kartikbhadane15/LEETCODE/tree/master/0461-hamming-distance) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kartikbhadane15/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/kartikbhadane15/LEETCODE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
